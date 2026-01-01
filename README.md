@@ -26,7 +26,7 @@ focused on transforming raw data into **clear, actionable business insights**.
 - Identified high-cost departments and seasonal claim trends
 - Delivered portfolio-ready insights and executive summary
 
-📄 [View Dashboard PDF](./Healthcare-Claims-Dashboard/Healthcare_Claims_Dashboard_FINAL.pdf)
+📄 [View Dashboard PDF](Healthcare-Claims-Dashboard/Healthcare_Claims_Dashboard.pdf)
 
 ---
 
