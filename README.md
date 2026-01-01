@@ -44,5 +44,5 @@ focused on transforming raw data into **clear, actionable business insights**.
 ---
 
 ## 📬 Contact
-- LinkedIn: (add your LinkedIn link)
+- LinkedIn: linkedin.com/in/muhammed-salem-5b6659242
 - GitHub: This repository
